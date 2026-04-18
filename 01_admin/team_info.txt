@@ -1,4 +1,10 @@
-Pulkit Bhardwaj : 2023A4PS1339P
-Laksh Gupta : 2023AAPS0762P
-Rushil Goswami : 2023A2PS0193P
-Divy Agrawal : 2023A7PS0658P
+
+Project Name: Multiplier-Free FPGA Acceleration of Convolutional Kolmogorov-Arnold Network for Edge Inference
+Team ID : 8
+TA mentor : GUFRAN AHMED SIDDIQUI
+
+Pulkit Bhardwaj : 2023A4PS1339P , f20231339@pilani.bits-pilani.ac.in
+Laksh Gupta : 2023AAPS0762P , f20230762@pilani.bits-pilani.ac.in
+Rushil Goswami : 2023A2PS0193P , f20230193@pilani.bits-pilani.ac.in
+Divy Agrawal : 2023A7PS0658P , f20230658@pilani.bits-pilani.ac.in
+
