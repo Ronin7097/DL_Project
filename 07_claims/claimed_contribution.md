@@ -17,6 +17,7 @@ We took the LUT-ROM evaluation approach from KANELÉ, which only works for fully
 ## What Did Not Work
 
 Getting high accuracy while keeping the LUT tables small enough for the TinyImageNet was not feasible.We also could not get CIFAR-10 working within the resource limits of the Zynq-7020 — the network needed too many channels to fit. 
+
 ---
 
 ## What We Believe Is Our Contribution
