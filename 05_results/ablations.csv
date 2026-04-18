@@ -1,0 +1,10 @@
+Ablation Study,Variant,Dataset,Best Accuracy (%),Final Remaining Connections (%),Notes
+Pruning Effect,Full connections (epoch 1),MNIST,94.71,100.0,No pruning applied yet
+Pruning Effect,Mid pruning (epoch ~40),MNIST,96.32,84.8,Pruning ramp in progress
+Pruning Effect,Final pruned model,MNIST,97.13,83.9,Default config - best result
+Pruning Effect,Full connections (epoch 1),Fashion MNIST,80.00,100.0,No pruning applied yet
+Pruning Effect,Mid pruning (epoch ~37),Fashion MNIST,83.23,77.8,Pruning ramp in progress
+Pruning Effect,Final pruned model,Fashion MNIST,86.35,75.4,Default config - best result
+Dataset Scaling,MNIST (simple),CoKANE,97.13,83.9,Converges well - high accuracy
+Dataset Scaling,Fashion MNIST (medium),CoKANE,86.35,75.4,Acceptable accuracy
+Dataset Scaling,CIFAR-10 (hard),CoKANE,75.22,6.4,Heavy pruning - accuracy limited by model size
