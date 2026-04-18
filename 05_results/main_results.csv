@@ -1,0 +1,13 @@
+Dataset      , Model , Accuracy (%), LUT  , FF   , DSP, BRAM, Fmax (MHz), Latency (ns), Area×Delay (LUT×ns)
+MNIST        , CoKANE,          0  ,  4925,  1542,   0,    0,        207,         92  ,              453000
+MNIST        , KANELÉ,         96.3,  3809,  4133,   0,    0,        864,          9.3,               35400
+MNIST        , FINN  ,         96.0, 91131,      ,   0,    5,        200,        310  ,            28200000
+MNIST        , hls4ml,          0  , 34359, 24122, 220,   11,        101,        218  ,           749000000
+Fashion MNIST, CoKANE,          0  ,  4561,  1468,   0,    0,        207,         92  ,              419000
+Fashion MNIST, KANELÉ,          0  ,  3526,  3935,   0,    0,        225,         35  ,              123000
+Fashion MNIST, FINN  ,          0  ,     0,     0,   0,    0,          0,          0  ,                   0
+Fashion MNIST, hls4ml,          0  , 31275, 21503, 220,   11,        105,        210  ,             6560000
+CIFAR-10     , CoKANE,          0  ,     0,     0,   0,    0,          0,          0  ,                   0
+CIFAR-10     , KANELÉ,          0  ,     0,     0,   0,    0,          0,          0  ,                   0
+CIFAR-10     , FINN  ,          0  ,     0,     0,   0,    0,          0,          0  ,                   0
+CIFAR-10     , hls4ml,          0  ,     0,     0,   0,    0,          0,          0  ,                   0
